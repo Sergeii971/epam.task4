@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns="http://www.example.org/gems"
+   xsi:schemaLocation="http://www.example.org/gems gems.xsd">
+    <precious-gemstone id="p1" origin="New-York">
+        <name>Ruby</name>
+        <value>2</value>
+        <cut-date>2000-05-14T14:00:20</cut-date>
+        <parameters>
+            <color>Green</color>
+            <transparency>1</transparency>
+            <number-of-faces>15</number-of-faces>
+        </parameters>
+    </precious-gemstone>
+    <precious-gemstone id="p2" origin="Minsk">
+        <name>Augite</name>
+        <value>4</value>
+        <cut-date>2010-05-15T14:00:20</cut-date>
+        <parameters>
+            <color>Red</color>
+            <transparency>3</transparency>
+            <number-of-faces>12</number-of-faces>
+        </parameters>
+    </precious-gemstone>
+    <precious-gemstone id="p3" origin="Moscow">
+        <name>Automalic</name>
+        <value>3</value>
+        <cut-date>2011-05-15T14:00:20</cut-date>
+        <parameters>
+            <color>Red</color>
+            <transparency>3</transparency>
+            <number-of-faces>13</number-of-faces>
+        </parameters>
+    </precious-gemstone>
+    <precious-gemstone id="p4" origin="London">
+        <name>Agate</name>
+        <value>3</value>
+        <cut-date>2012-05-15T14:00:20</cut-date>
+        <parameters>
+            <color>Red</color>
+            <transparency>3</transparency>
+            <number-of-faces>13</number-of-faces>
+        </parameters>
+    </precious-gemstone>
+    <precious-gemstone id="p5" origin="London">
+        <name>Adularia</name>
+        <value>2</value>
+        <cut-date>2012-05-15T14:00:20</cut-date>
+        <parameters>
+            <color>Blue</color>
+            <transparency>3</transparency>
+            <number-of-faces>12</number-of-faces>
+        </parameters>
+    </precious-gemstone>
+    <precious-gemstone id="p6" origin="Minsk">
+        <name>Aquamarine</name>
+        <value>3</value>
+        <cut-date>2012-05-15T14:00:20</cut-date>
+        <parameters>
+            <color>Blue</color>
+            <transparency>3</transparency>
+            <number-of-faces>12</number-of-faces>
+        </parameters>
+    </precious-gemstone>
+    <precious-gemstone id="p7" origin="Minsk">
+        <name>Axinite</name>
+        <value>3</value>
+        <cut-date>2012-05-15T14:00:20</cut-date>
+        <parameters>
+            <color>Blue</color>
+            <transparency>3</transparency>
+            <number-of-faces>12</number-of-faces>
+        </parameters>
+    </precious-gemstone>
+    <precious-gemstone id="p8" origin="London">
+        <name>Pearl</name>
+        <value>3</value>
+        <cut-date>2012-05-15T14:00:20</cut-date>
+        <parameters>
+            <color>Blue</color>
+            <transparency>3</transparency>
+            <number-of-faces>12</number-of-faces>
+        </parameters>
+    </precious-gemstone>
+    <semiprecious-gemstone id="s1" origin="London">
+        <name>Emerald</name>
+        <value>3</value>
+        <cut-date>2012-05-15T14:00:20</cut-date>
+        <parameters>
+            <color>Blue</color>
+            <transparency>3</transparency>
+            <number-of-faces>12</number-of-faces>
+        </parameters>
+    </semiprecious-gemstone>
+    <semiprecious-gemstone id="s2" origin="London">
+        <name>Iloit</name>
+        <value>2</value>
+        <cut-date>2012-05-15T14:00:20</cut-date>
+        <parameters>
+            <color>Blue</color>
+            <transparency>2</transparency>
+            <number-of-faces>12</number-of-faces>
+        </parameters>
+    </semiprecious-gemstone>
+    <semiprecious-gemstone id="s3" origin="London">
+        <name>Kyanite</name>
+        <value>2</value>
+        <cut-date>2012-05-15T14:00:20</cut-date>
+        <parameters>
+            <color>Blue</color>
+            <transparency>2</transparency>
+            <number-of-faces>12</number-of-faces>
+        </parameters>
+    </semiprecious-gemstone>
+    <semiprecious-gemstone id="s4" origin="London">
+        <name>Corundum</name>
+        <value>2</value>
+        <cut-date>2012-05-15T14:00:20</cut-date>
+        <parameters>
+            <color>Blue</color>
+            <transparency>2</transparency>
+            <number-of-faces>12</number-of-faces>
+        </parameters>
+    </semiprecious-gemstone>
+    <semiprecious-gemstone id="s5" origin="London">
+        <name>Flint</name>
+        <value>2</value>
+        <cut-date>2012-05-15T14:00:20</cut-date>
+        <parameters>
+            <color>Blue</color>
+            <transparency>2</transparency>
+            <number-of-faces>9</number-of-faces>
+        </parameters>
+    </semiprecious-gemstone>
+    <semiprecious-gemstone id="s6" origin="London">
+        <name>Lal</name>
+        <value>2</value>
+        <cut-date>2012-05-15T14:00:20</cut-date>
+        <parameters>
+            <color>Blue</color>
+            <transparency>2</transparency>
+            <number-of-faces>9</number-of-faces>
+        </parameters>
+    </semiprecious-gemstone>
+    <semiprecious-gemstone id="s7" origin="London">
+        <name>Melanite</name>
+        <value>2</value>
+        <cut-date>2012-05-15T14:00:20</cut-date>
+        <parameters>
+            <color>Blue</color>
+            <transparency>2</transparency>
+            <number-of-faces>9</number-of-faces>
+        </parameters>
+    </semiprecious-gemstone>
+    <semiprecious-gemstone id="s8" origin="London">
+        <name>Amethyst</name>
+        <value>2</value>
+        <cut-date>2012-05-15T14:00:20</cut-date>
+        <parameters>
+            <color>Blue</color>
+            <transparency>2</transparency>
+            <number-of-faces>9</number-of-faces>
+        </parameters>
+    </semiprecious-gemstone>
+</gems>
